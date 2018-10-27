@@ -108,6 +108,10 @@ Go is a programming language created in 2009 by Google employees Robert Grieseme
 
 - [x] **Groovy**
 
+- [x] **Hack**
+
+Facebook created this programming language, a dialect of PHP, for the Hip-Hop Virtual Machine (HHVM). Using Hack, developers can build complex websites really fast; it runs without compiling. This is a statically typed language which also allows coders to use dynamic coding like in PHP. Despite an impressive début on the most popular social network, Hack hasn’t found as much adoption since.
+
 - [x] **Haskell**
 
 - [x] **HTML**
